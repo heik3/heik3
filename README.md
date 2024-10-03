@@ -1,16 +1,18 @@
-## Hi there 👋
+Boas vindas ao meu perfil 💙
 
-<!--
-**heik3/heik3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Heike Machado
 
-Here are some ideas to get you started:
+Estou estudando na Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+
+heike.machado@escola.pr.gov.br
+
+@heik3
+
+![](https://imagenes.elpais.com/resizer/v2/https%3A%2F%2Fep01.epimg.net%2Fcultura%2Fimagenes%2F2016%2F10%2F22%2Ftelevision%2F1477147848_284332_1477147980_noticia_fotograma.jpg?auth=102db62b03709ed3f4af414220327f1e06289e27a6677893f4007e1e6a108005&width=1960&height=1470&smart=true)
+
